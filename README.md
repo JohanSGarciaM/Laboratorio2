@@ -66,4 +66,4 @@ Es donde se encuentran la mayoría de librerías que se utilizan en los desarrol
 cuando sea necesario
 Maven apunta a un repositorio central donde se suben todos los componentes que utiliza la comunidad que trabaja con la JDK
 
-![](MainRepository.jpg)	
+![](main.jpg)	
