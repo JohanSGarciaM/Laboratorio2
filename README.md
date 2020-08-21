@@ -67,3 +67,27 @@ cuando sea necesario
 Maven apunta a un repositorio central donde se suben todos los componentes que utiliza la comunidad que trabaja con la JDK
 
 ![](main.jpg)	
+
+
+# Respuesta  preguntas Shapes
+>
+* Sin parámetros
+* Parámetro: qwerty
+* Parámetro: pentagon
+* Parámetro Hexagon
+>
+*¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?*
+
+*Sin parámetros Se ejecuta la instrucción y este es el resultado*
+
+![](NoParameters.JPG)
+
+* Con el parámetro qwerty que no hace referencia a ninguna figura, tambien se ejecuta la instrucción y el resultado es *
+
+![](qwerty.JPG)
+
+* Con los ultmios dos parámetros que hacen referencia a un tipo de shape el resultado es el esperado *
+
+![](SuccessTriangle.JPG)
+
+
